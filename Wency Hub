@@ -3,7 +3,7 @@ local SaveManager = loadstring(game:HttpGetAsync("https://raw.githubusercontent.
 local InterfaceManager = loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/ActualMasterOogway/Fluent-Renewed/master/Addons/InterfaceManager.luau"))()
 
 local Window = Library:CreateWindow{
-    Title = "Wency Hub Script",
+    Title = "Omega Hub Script",
     SubTitle = "By Ahmad",
     TabWidth = 125,
     Size = UDim2.fromOffset(830, 525),
