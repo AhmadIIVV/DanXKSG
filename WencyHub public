@@ -1,13 +1,13 @@
-local v1 = loadstring(game:HttpGet("https://raw.githubusercontent.com/memejames/elerium-v2-ui-library//main/Library", true))():AddWindow("WencyHub PUBLIC | MUSCLE LEGENDS", {
+local v1 = loadstring(game:HttpGet("https://raw.githubusercontent.com/memejames/elerium-v2-ui-library//main/Library", true))():AddWindow("Mercy killing |   LEGENDS", {
     main_color = Color3.fromRGB(0, 128, 128),
     min_size = Vector2.new(475, 382),
     can_resize = false
 })
 local v2 = v1:AddTab("Home")
 v2:Show()
-v2:AddLabel("Credits to DanXKSG for making the Wency Public script")
+v2:AddLabel("Credits to DanXKSG for making the Mercy Private script")
 v2:AddLabel("If you guys want anything added tell us on the discord")
-v2:AddLabel("Almost 5k members in the H3ll Server on discord!!")
+v2:AddLabel("Made by MercyonTop")
 v2:AddLabel("Enjoy using the script and have fun")
 v2:AddLabel("------------- Teleports -------------")
 local vu3 = nil
